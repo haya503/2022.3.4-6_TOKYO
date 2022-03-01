@@ -8,3 +8,8 @@
     - [チェックアウト](./docs/3.5/1.checkout.md)
     - [ディズニーシー](./docs/3.5/2.disneysea.md)
     - [ホテル](./docs/3.5/11.disneyseaToHotel.md)
+  - 2022-3.6
+    - [ホテル→空港](./docs/3.6/1.hotelToAirport.md)
+    - [空港→築地市場](./docs/3.6/2.airportToTsukiji.md)
+    - [築地市場](./docs/3.6/3.tsukiji.md)
+    - [築地市場→東京駅](./docs/3.6/4.tsukijiToTokyoStation.md)

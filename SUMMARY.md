@@ -13,3 +13,4 @@
     - [空港→築地市場](./docs/3.6/2.airportToTsukiji.md)
     - [築地市場](./docs/3.6/3.tsukiji.md)
     - [築地市場→東京駅](./docs/3.6/4.tsukijiToTokyoStation.md)
+    - [東京駅](./docs/3.6/5.tokyoStation.md)
